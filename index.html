@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101b31">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Deutsch Duo">
+  <meta name="description" content="10 words a day. Learn together, grow together.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Deutsch Duo 🇩🇪</title>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand"><div class="brand-mark">D</div><div><div class="brand-name">Deutsch Duo <span>🇩🇪</span></div><div class="brand-tag">10 words a day. Learn together, grow together.</div></div></div>
+      <button id="profileButton" class="profile-pill" aria-label="Switch learner"><span class="avatar" id="profileAvatar">A</span><span id="profileName">Learner 1</span><span class="chevron">⌄</span></button>
+    </header>
+
+    <main>
+      <section id="homeView" class="view active">
+        <div class="welcome-row"><div><p class="eyebrow" id="todayLabel">YOUR LEARNING SPACE</p><h1>Guten Tag<span class="gold">.</span></h1><p class="muted">A little German, every day.</p></div><div class="streak-chip"><span>✦</span><div><b id="streakValue">0</b><small>day streak</small></div></div></div>
+        <div class="stats-grid">
+          <article class="stat-card"><span class="stat-icon">✦</span><strong id="masteredCount">0</strong><small>Words mastered</small></article>
+          <article class="stat-card"><span class="stat-icon">◷</span><strong id="remainingCount">300</strong><small>To discover</small></article>
+          <article class="stat-card"><span class="stat-icon">◎</span><strong id="accuracyValue">—</strong><small>Quiz accuracy</small></article>
+        </div>
+        <div class="section-heading"><div><p class="eyebrow">YOUR PROGRAMME</p><h2>30 days of German</h2></div><span class="small-muted" id="overallProgressText">0 / 300</span></div>
+        <div class="progress-track"><div id="overallProgress" class="progress-fill"></div></div>
+        <article class="today-card">
+          <div class="today-top"><span class="today-kicker">CONTINUE LEARNING</span><span class="day-tag" id="currentDayTag">DAY 1 / 30</span></div>
+          <h2 id="currentDayTitle">Day 1 — Freunde</h2>
+          <p id="todaySummary">10 words selected for today's practice.</p>
+          <div class="today-progress"><div class="progress-track"><div id="dayProgress" class="progress-fill"></div></div><span id="dayProgressText">0 / 10</span></div>
+          <button id="startToday" class="primary-btn">Start today's words <span>→</span></button>
+        </article>
+        <div class="section-heading compact"><div><p class="eyebrow">YOUR JOURNEY</p><h2>Daily lessons</h2></div><button class="text-btn" id="reviewAllBtn">Revise all →</button></div>
+        <div id="dayGrid" class="day-grid"></div>
+      </section>
+
+      <section id="cardsView" class="view">
+        <div class="view-heading"><button class="back-btn" data-go="homeView">←</button><div><p class="eyebrow" id="deckEyebrow">DAY 1</p><h1 id="deckTitle">Flashcards</h1></div></div>
+        <div class="deck-meta"><span id="cardCounter">1 of 10</span><span id="deckKnown">0 known</span></div>
+        <div class="card-progress progress-track"><div id="deckProgress" class="progress-fill"></div></div>
+        <button class="flashcard" id="flashcard" aria-label="Flip flashcard">
+          <div class="card-face card-front">
+            <div class="card-topline"><span id="frontType" class="type-tag">Noun</span><span class="flip-hint">TAP TO REVEAL ↻</span></div>
+            <div class="word-wrap"><div class="word-article" id="frontArticle"></div><div class="word-main" id="frontWord">die Herkunft</div></div>
+            <div class="card-bottom"><span>GERMAN VOCABULARY</span><span id="frontLesson">LEKTION 1</span></div>
+          </div>
+          <div class="card-face card-back">
+            <div class="card-topline"><span class="type-tag gold-tag">MEANING</span><span class="flip-hint">TAP TO FLIP ↻</span></div>
+            <div class="meaning" id="backMeaning">origin; background</div>
+            <div class="example-block"><p class="example-label">BEISPIEL</p><p class="example-de" id="backExampleDe"></p><p class="example-en" id="backExampleEn"></p></div>
+            <div class="card-bottom"><span>DEUTSCH DUO</span><span>LEARN TOGETHER</span></div>
+          </div>
+        </button>
+        <div class="audio-row"><button id="speakBtn" class="audio-btn">🔊 <span>Hear pronunciation</span></button><button id="shuffleBtn" class="quiet-btn">⇄ Shuffle</button></div>
+        <div class="know-row"><button id="practiceBtn" class="practice-btn">↻ Need more practice</button><button id="knowBtn" class="know-btn">✓ I know this</button></div>
+        <div class="card-nav"><button id="prevCard" class="nav-btn">← Previous</button><button id="nextCard" class="nav-btn">Next →</button></div>
+      </section>
+
+      <section id="quizView" class="view">
+        <div class="view-heading"><button class="back-btn" data-go="homeView">←</button><div><p class="eyebrow">TEST YOUR KNOWLEDGE</p><h1>Quick quiz<span class="gold">.</span></h1></div></div>
+        <p class="muted quiz-intro">Choose a mode and practise at your own pace.</p>
+        <div class="quiz-modes">
+          <button class="quiz-mode" data-mode="de-en"><span class="mode-icon">🇩🇪 → 🇬🇧</span><b>German to English</b><small>Choose the correct meaning</small><span class="mode-arrow">→</span></button>
+          <button class="quiz-mode" data-mode="en-de"><span class="mode-icon">🇬🇧 → 🇩🇪</span><b>English to German</b><small>Recall the German word</small><span class="mode-arrow">→</span></button>
+          <button class="quiz-mode" data-mode="article"><span class="mode-icon">DER · DIE · DAS</span><b>Article challenge</b><small>Choose the correct article</small><span class="mode-arrow">→</span></button>
+          <button class="quiz-mode" data-mode="cloze"><span class="mode-icon">✎</span><b>Missing word</b><small>Complete the German sentence</small><span class="mode-arrow">→</span></button>
+          <button class="quiz-mode" data-mode="mixed"><span class="mode-icon">✦</span><b>Mixed revision</b><small>A little bit of everything</small><span class="mode-arrow">→</span></button>
+        </div>
+        <div class="quiz-scope"><label for="quizScope">Question pool</label><select id="quizScope"><option value="all">All 300 words</option><option value="day">Selected day</option><option value="difficult">Need more practice</option></select></div>
+      </section>
+
+      <section id="quizPlayView" class="view">
+        <div class="view-heading"><button class="back-btn" data-go="quizView">←</button><div><p class="eyebrow" id="quizModeLabel">QUIZ</p><h1>Make it stick<span class="gold">.</span></h1></div></div>
+        <div class="quiz-count-row"><span id="questionCounter">QUESTION 1 / 10</span><span id="liveScore">0 correct</span></div>
+        <div class="progress-track"><div id="quizProgress" class="progress-fill"></div></div>
+        <article class="question-card"><p class="eyebrow">YOUR QUESTION</p><h2 id="questionText">What does ... mean?</h2><p id="questionSub" class="question-sub"></p></article>
+        <div id="answerOptions" class="answer-options"></div>
+        <div id="feedback" class="feedback" aria-live="polite"></div>
+        <button id="nextQuestion" class="primary-btn full-btn" disabled>Continue <span>→</span></button>
+      </section>
+
+      <section id="resultsView" class="view">
+        <div class="results-card"><div class="result-star">✦</div><p class="eyebrow">QUIZ COMPLETE</p><h1 id="resultTitle">Sehr gut!</h1><div class="score-circle"><strong id="finalScore">8/10</strong><small>correct</small></div><p id="resultMessage" class="muted">Keep showing up. You're making progress.</p><div class="result-stats"><div><b id="resultAccuracy">80%</b><small>Accuracy</small></div><div><b id="resultCorrect">8</b><small>Correct</small></div><div><b id="resultTotal">10</b><small>Questions</small></div></div><button id="tryAgain" class="primary-btn full-btn">Try another quiz →</button><button class="text-btn home-link" data-go="homeView">Back to home</button></div>
+      </section>
+
+      <section id="practiceView" class="view">
+        <div class="view-heading"><button class="back-btn" data-go="homeView">←</button><div><p class="eyebrow">YOUR PERSONAL REVISION LIST</p><h1>More practice<span class="gold">.</span></h1></div></div>
+        <p class="muted">Words you've marked for another look.</p><div id="practiceList" class="practice-list"></div>
+        <button id="practiceStudy" class="primary-btn full-btn">Study these words →</button>
+      </section>
+
+      <section id="profileView" class="view">
+        <div class="view-heading"><button class="back-btn" data-go="homeView">←</button><div><p class="eyebrow">LEARNING TOGETHER</p><h1>Learner profiles</h1></div></div>
+        <p class="muted">Each learner has separate progress on this device.</p>
+        <div id="profileChoices" class="profile-choices"></div>
+        <div id="profileSummary" class="settings-card"></div>
+        <div class="settings-card"><h3>Progress backup</h3><p>Export a learner's progress to move it to another browser or device. This is a manual backup, not automatic sync.</p><div class="settings-actions"><button id="exportProgress" class="secondary-btn">Export progress</button><label class="secondary-btn import-label">Import progress<input type="file" id="importProgress" accept="application/json"></label></div></div>
+        <div class="settings-card"><h3>About this version</h3><p>Vocabulary source: your uploaded Sicher! B2.1 workbook. The app works offline after its first successful load on an HTTPS host.</p><p class="tiny-note">Local-only version · No account or cloud database is connected.</p></div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav">
+      <button class="nav-item selected" data-tab="homeView"><span>⌂</span><small>Home</small></button>
+      <button class="nav-item" data-tab="cardsView" id="navCards"><span>▤</span><small>Cards</small></button>
+      <button class="nav-item" data-tab="quizView"><span>✧</span><small>Quiz</small></button>
+      <button class="nav-item" data-tab="practiceView"><span>↻</span><small>Revise</small></button>
+    </nav>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

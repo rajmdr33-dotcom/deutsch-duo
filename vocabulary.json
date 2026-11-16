@@ -1,0 +1,3002 @@
+[
+  {
+    "day": 1,
+    "number": 1,
+    "lesson": "1 – Freunde",
+    "german": "die Herkunft",
+    "type": "Noun",
+    "english": "origin; background",
+    "exampleDe": "In der Diskussion ging es um die Herkunft.",
+    "exampleEn": "The discussion was about origin."
+  },
+  {
+    "day": 1,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "das Motiv",
+    "type": "Noun",
+    "english": "motive; theme",
+    "exampleDe": "In der Diskussion ging es um das Motiv.",
+    "exampleEn": "The discussion was about motive."
+  },
+  {
+    "day": 1,
+    "number": 3,
+    "lesson": "1 – Freunde",
+    "german": "die Alternative",
+    "type": "Noun",
+    "english": "alternative",
+    "exampleDe": "In der Diskussion ging es um die Alternative.",
+    "exampleEn": "The discussion was about alternative."
+  },
+  {
+    "day": 1,
+    "number": 4,
+    "lesson": "1 – Freunde",
+    "german": "die Aufzählung",
+    "type": "Noun",
+    "english": "listing; enumeration",
+    "exampleDe": "In der Diskussion ging es um die Aufzählung.",
+    "exampleEn": "The discussion was about listing."
+  },
+  {
+    "day": 1,
+    "number": 5,
+    "lesson": "1 – Freunde",
+    "german": "die Einschränkung",
+    "type": "Noun",
+    "english": "restriction; limitation",
+    "exampleDe": "In der Diskussion ging es um die Einschränkung.",
+    "exampleEn": "The discussion was about restriction."
+  },
+  {
+    "day": 1,
+    "number": 6,
+    "lesson": "1 – Freunde",
+    "german": "der Gegensatz",
+    "type": "Noun",
+    "english": "contrast; opposite",
+    "exampleDe": "In der Diskussion ging es um den Gegensatz.",
+    "exampleEn": "The discussion was about contrast."
+  },
+  {
+    "day": 1,
+    "number": 7,
+    "lesson": "1 – Freunde",
+    "german": "der Geschmack",
+    "type": "Noun",
+    "english": "taste",
+    "exampleDe": "In der Diskussion ging es um den Geschmack.",
+    "exampleEn": "The discussion was about taste."
+  },
+  {
+    "day": 1,
+    "number": 8,
+    "lesson": "1 – Freunde",
+    "german": "das Missverständnis",
+    "type": "Noun",
+    "english": "misunderstanding",
+    "exampleDe": "In der Diskussion ging es um das Missverständnis.",
+    "exampleEn": "The discussion was about misunderstanding."
+  },
+  {
+    "day": 1,
+    "number": 9,
+    "lesson": "1 – Freunde",
+    "german": "die Neuigkeit",
+    "type": "Noun",
+    "english": "piece of news",
+    "exampleDe": "In der Diskussion ging es um die Neuigkeit.",
+    "exampleEn": "The discussion was about piece of news."
+  },
+  {
+    "day": 1,
+    "number": 10,
+    "lesson": "1 – Freunde",
+    "german": "die Umfrage",
+    "type": "Noun",
+    "english": "survey; poll",
+    "exampleDe": "In der Diskussion ging es um die Umfrage.",
+    "exampleEn": "The discussion was about survey."
+  },
+  {
+    "day": 2,
+    "number": 1,
+    "lesson": "1 – Freunde",
+    "german": "der Auftrag",
+    "type": "Noun",
+    "english": "task; assignment; order",
+    "exampleDe": "In der Diskussion ging es um den Auftrag.",
+    "exampleEn": "The discussion was about task."
+  },
+  {
+    "day": 2,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "die Erdbevölkerung",
+    "type": "Noun",
+    "english": "world population",
+    "exampleDe": "In der Diskussion ging es um die Erdbevölkerung.",
+    "exampleEn": "The discussion was about world population."
+  },
+  {
+    "day": 2,
+    "number": 3,
+    "lesson": "1 – Freunde",
+    "german": "der Fakt",
+    "type": "Noun",
+    "english": "fact",
+    "exampleDe": "In der Diskussion ging es um den Fakt.",
+    "exampleEn": "The discussion was about fact."
+  },
+  {
+    "day": 2,
+    "number": 4,
+    "lesson": "1 – Freunde",
+    "german": "die Freundschaftsanfrage",
+    "type": "Noun",
+    "english": "friend request",
+    "exampleDe": "In der Diskussion ging es um die Freundschaftsanfrage.",
+    "exampleEn": "The discussion was about friend request."
+  },
+  {
+    "day": 2,
+    "number": 5,
+    "lesson": "1 – Freunde",
+    "german": "der Nutzer",
+    "type": "Noun",
+    "english": "user",
+    "exampleDe": "In der Diskussion ging es um den Nutzer.",
+    "exampleEn": "The discussion was about user."
+  },
+  {
+    "day": 2,
+    "number": 6,
+    "lesson": "1 – Freunde",
+    "german": "die Redensart",
+    "type": "Noun",
+    "english": "idiom; saying",
+    "exampleDe": "In der Diskussion ging es um die Redensart.",
+    "exampleEn": "The discussion was about idiom."
+  },
+  {
+    "day": 2,
+    "number": 7,
+    "lesson": "1 – Freunde",
+    "german": "die Ankündigung",
+    "type": "Noun",
+    "english": "announcement",
+    "exampleDe": "In der Diskussion ging es um die Ankündigung.",
+    "exampleEn": "The discussion was about announcement."
+  },
+  {
+    "day": 2,
+    "number": 8,
+    "lesson": "1 – Freunde",
+    "german": "der Eindruck",
+    "type": "Noun",
+    "english": "impression",
+    "exampleDe": "In der Diskussion ging es um den Eindruck.",
+    "exampleEn": "The discussion was about impression."
+  },
+  {
+    "day": 2,
+    "number": 9,
+    "lesson": "1 – Freunde",
+    "german": "die Gesprächsrunde",
+    "type": "Noun",
+    "english": "discussion group; panel",
+    "exampleDe": "In der Diskussion ging es um die Gesprächsrunde.",
+    "exampleEn": "The discussion was about discussion group."
+  },
+  {
+    "day": 2,
+    "number": 10,
+    "lesson": "1 – Freunde",
+    "german": "der Ratgeber",
+    "type": "Noun",
+    "english": "adviser; guide",
+    "exampleDe": "In der Diskussion ging es um den Ratgeber.",
+    "exampleEn": "The discussion was about adviser."
+  },
+  {
+    "day": 3,
+    "number": 1,
+    "lesson": "1 – Freunde",
+    "german": "die Verwirrung",
+    "type": "Noun",
+    "english": "confusion",
+    "exampleDe": "In der Diskussion ging es um die Verwirrung.",
+    "exampleEn": "The discussion was about confusion."
+  },
+  {
+    "day": 3,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "das Bedürfnis",
+    "type": "Noun",
+    "english": "need; desire",
+    "exampleDe": "In der Diskussion ging es um das Bedürfnis.",
+    "exampleEn": "The discussion was about need."
+  },
+  {
+    "day": 3,
+    "number": 3,
+    "lesson": "1 – Freunde",
+    "german": "die Beziehung",
+    "type": "Noun",
+    "english": "relationship",
+    "exampleDe": "In der Diskussion ging es um die Beziehung.",
+    "exampleEn": "The discussion was about relationship."
+  },
+  {
+    "day": 3,
+    "number": 4,
+    "lesson": "1 – Freunde",
+    "german": "die Dankbarkeit",
+    "type": "Noun",
+    "english": "gratitude",
+    "exampleDe": "In der Diskussion ging es um die Dankbarkeit.",
+    "exampleEn": "The discussion was about gratitude."
+  },
+  {
+    "day": 3,
+    "number": 5,
+    "lesson": "1 – Freunde",
+    "german": "die Emotion",
+    "type": "Noun",
+    "english": "emotion",
+    "exampleDe": "In der Diskussion ging es um die Emotion.",
+    "exampleEn": "The discussion was about emotion."
+  },
+  {
+    "day": 3,
+    "number": 6,
+    "lesson": "1 – Freunde",
+    "german": "der Lebensabschnitt",
+    "type": "Noun",
+    "english": "stage of life",
+    "exampleDe": "In der Diskussion ging es um den Lebensabschnitt.",
+    "exampleEn": "The discussion was about stage of life."
+  },
+  {
+    "day": 3,
+    "number": 7,
+    "lesson": "1 – Freunde",
+    "german": "die Lebensphase",
+    "type": "Noun",
+    "english": "phase of life",
+    "exampleDe": "In der Diskussion ging es um die Lebensphase.",
+    "exampleEn": "The discussion was about phase of life."
+  },
+  {
+    "day": 3,
+    "number": 8,
+    "lesson": "1 – Freunde",
+    "german": "der Altersunterschied",
+    "type": "Noun",
+    "english": "age difference",
+    "exampleDe": "In der Diskussion ging es um den Altersunterschied.",
+    "exampleEn": "The discussion was about age difference."
+  },
+  {
+    "day": 3,
+    "number": 9,
+    "lesson": "1 – Freunde",
+    "german": "das Feedback",
+    "type": "Noun",
+    "english": "feedback",
+    "exampleDe": "In der Diskussion ging es um das Feedback.",
+    "exampleEn": "The discussion was about feedback."
+  },
+  {
+    "day": 3,
+    "number": 10,
+    "lesson": "1 – Freunde",
+    "german": "der Konkurrent",
+    "type": "Noun",
+    "english": "competitor",
+    "exampleDe": "In der Diskussion ging es um den Konkurrent.",
+    "exampleEn": "The discussion was about competitor."
+  },
+  {
+    "day": 4,
+    "number": 1,
+    "lesson": "1 – Freunde",
+    "german": "entwerfen",
+    "type": "Verb",
+    "english": "to design; draft",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „entwerfen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “entwerfen” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "kommentieren",
+    "type": "Verb",
+    "english": "to comment",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „kommentieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “kommentieren” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 3,
+    "lesson": "1 – Freunde",
+    "german": "anvertrauen",
+    "type": "Verb",
+    "english": "to confide; entrust",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „anvertrauen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “anvertrauen” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 4,
+    "lesson": "1 – Freunde",
+    "german": "sich verlassen auf (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to rely on",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich verlassen auf (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich verlassen auf (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 5,
+    "lesson": "1 – Freunde",
+    "german": "verstehen unter (+ Dat.)",
+    "type": "Verb phrase",
+    "english": "to understand by",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „verstehen unter (+ Dat.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “verstehen unter (+ Dat.)” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 6,
+    "lesson": "1 – Freunde",
+    "german": "hin- und hergerissen sein",
+    "type": "Phrase",
+    "english": "to be torn; undecided",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „hin- und hergerissen sein“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “hin- und hergerissen sein” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 7,
+    "lesson": "1 – Freunde",
+    "german": "sich aus den Augen verlieren",
+    "type": "Verb phrase",
+    "english": "to lose touch",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich aus den Augen verlieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich aus den Augen verlieren” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 8,
+    "lesson": "1 – Freunde",
+    "german": "ermöglichen",
+    "type": "Verb",
+    "english": "to make possible",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „ermöglichen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “ermöglichen” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 9,
+    "lesson": "1 – Freunde",
+    "german": "vernetzt sein",
+    "type": "Phrase",
+    "english": "to be connected/networked",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „vernetzt sein“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “vernetzt sein” in an example sentence."
+  },
+  {
+    "day": 4,
+    "number": 10,
+    "lesson": "1 – Freunde",
+    "german": "oberflächlich",
+    "type": "Adjective",
+    "english": "superficial",
+    "exampleDe": "In dieser Situation ist es wichtig, oberflächlich zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain superficial."
+  },
+  {
+    "day": 5,
+    "number": 1,
+    "lesson": "1 – Freunde",
+    "german": "außergewöhnlich",
+    "type": "Adjective",
+    "english": "unusual; extraordinary",
+    "exampleDe": "Die Lösung wirkt außergewöhnlich und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems unusual and is easy to implement."
+  },
+  {
+    "day": 5,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "hilfsbereit",
+    "type": "Adjective",
+    "english": "helpful",
+    "exampleDe": "Diese Erfahrung war für mich besonders hilfsbereit.",
+    "exampleEn": "This experience was particularly helpful for me."
+  },
+  {
+    "day": 5,
+    "number": 3,
+    "lesson": "2 – In der Firma",
+    "german": "das Profil",
+    "type": "Noun",
+    "english": "profile",
+    "exampleDe": "In der Diskussion ging es um das Profil.",
+    "exampleEn": "The discussion was about profile."
+  },
+  {
+    "day": 5,
+    "number": 4,
+    "lesson": "2 – In der Firma",
+    "german": "die Anforderung",
+    "type": "Noun",
+    "english": "requirement",
+    "exampleDe": "In der Diskussion ging es um die Anforderung.",
+    "exampleEn": "The discussion was about requirement."
+  },
+  {
+    "day": 5,
+    "number": 5,
+    "lesson": "2 – In der Firma",
+    "german": "der Bereich",
+    "type": "Noun",
+    "english": "area; department",
+    "exampleDe": "In der Diskussion ging es um den Bereich.",
+    "exampleEn": "The discussion was about area."
+  },
+  {
+    "day": 5,
+    "number": 6,
+    "lesson": "2 – In der Firma",
+    "german": "das Bundesgebiet",
+    "type": "Noun",
+    "english": "federal territory",
+    "exampleDe": "In der Diskussion ging es um das Bundesgebiet.",
+    "exampleEn": "The discussion was about federal territory."
+  },
+  {
+    "day": 5,
+    "number": 7,
+    "lesson": "2 – In der Firma",
+    "german": "die Klinik",
+    "type": "Noun",
+    "english": "clinic",
+    "exampleDe": "In der Diskussion ging es um die Klinik.",
+    "exampleEn": "The discussion was about clinic."
+  },
+  {
+    "day": 5,
+    "number": 8,
+    "lesson": "2 – In der Firma",
+    "german": "das Konzept",
+    "type": "Noun",
+    "english": "concept; plan",
+    "exampleDe": "In der Diskussion ging es um das Konzept.",
+    "exampleEn": "The discussion was about concept."
+  },
+  {
+    "day": 5,
+    "number": 9,
+    "lesson": "2 – In der Firma",
+    "german": "die Messe",
+    "type": "Noun",
+    "english": "trade fair; exhibition",
+    "exampleDe": "In der Diskussion ging es um die Messe.",
+    "exampleEn": "The discussion was about trade fair."
+  },
+  {
+    "day": 5,
+    "number": 10,
+    "lesson": "2 – In der Firma",
+    "german": "die Schicht",
+    "type": "Noun",
+    "english": "shift",
+    "exampleDe": "In der Diskussion ging es um die Schicht.",
+    "exampleEn": "The discussion was about shift."
+  },
+  {
+    "day": 6,
+    "number": 1,
+    "lesson": "2 – In der Firma",
+    "german": "der Schichtdienst",
+    "type": "Noun",
+    "english": "shift work",
+    "exampleDe": "In der Diskussion ging es um den Schichtdienst.",
+    "exampleEn": "The discussion was about shift work."
+  },
+  {
+    "day": 6,
+    "number": 2,
+    "lesson": "2 – In der Firma",
+    "german": "das Unternehmen",
+    "type": "Noun",
+    "english": "company; enterprise",
+    "exampleDe": "In der Diskussion ging es um das Unternehmen.",
+    "exampleEn": "The discussion was about company."
+  },
+  {
+    "day": 6,
+    "number": 3,
+    "lesson": "2 – In der Firma",
+    "german": "die Vorlesung",
+    "type": "Noun",
+    "english": "lecture",
+    "exampleDe": "In der Diskussion ging es um die Vorlesung.",
+    "exampleEn": "The discussion was about lecture."
+  },
+  {
+    "day": 6,
+    "number": 4,
+    "lesson": "2 – In der Firma",
+    "german": "die Arbeitskraft",
+    "type": "Noun",
+    "english": "worker; workforce",
+    "exampleDe": "In der Diskussion ging es um die Arbeitskraft.",
+    "exampleEn": "The discussion was about worker."
+  },
+  {
+    "day": 6,
+    "number": 5,
+    "lesson": "2 – In der Firma",
+    "german": "der Effekt",
+    "type": "Noun",
+    "english": "effect",
+    "exampleDe": "In der Diskussion ging es um den Effekt.",
+    "exampleEn": "The discussion was about effect."
+  },
+  {
+    "day": 6,
+    "number": 6,
+    "lesson": "2 – In der Firma",
+    "german": "die Motivation",
+    "type": "Noun",
+    "english": "motivation",
+    "exampleDe": "In der Diskussion ging es um die Motivation.",
+    "exampleEn": "The discussion was about motivation."
+  },
+  {
+    "day": 6,
+    "number": 7,
+    "lesson": "2 – In der Firma",
+    "german": "die Reportage",
+    "type": "Noun",
+    "english": "report; feature",
+    "exampleDe": "In der Diskussion ging es um die Reportage.",
+    "exampleEn": "The discussion was about report."
+  },
+  {
+    "day": 6,
+    "number": 8,
+    "lesson": "2 – In der Firma",
+    "german": "der Therapeut",
+    "type": "Noun",
+    "english": "therapist",
+    "exampleDe": "In der Diskussion ging es um den Therapeut.",
+    "exampleEn": "The discussion was about therapist."
+  },
+  {
+    "day": 6,
+    "number": 9,
+    "lesson": "2 – In der Firma",
+    "german": "die Veränderung",
+    "type": "Noun",
+    "english": "change",
+    "exampleDe": "In der Diskussion ging es um die Veränderung.",
+    "exampleEn": "The discussion was about change."
+  },
+  {
+    "day": 6,
+    "number": 10,
+    "lesson": "2 – In der Firma",
+    "german": "der Zusammenbruch",
+    "type": "Noun",
+    "english": "collapse; breakdown",
+    "exampleDe": "In der Diskussion ging es um den Zusammenbruch.",
+    "exampleEn": "The discussion was about collapse."
+  },
+  {
+    "day": 7,
+    "number": 1,
+    "lesson": "2 – In der Firma",
+    "german": "die Persönlichkeit",
+    "type": "Noun",
+    "english": "personality",
+    "exampleDe": "In der Diskussion ging es um die Persönlichkeit.",
+    "exampleEn": "The discussion was about personality."
+  },
+  {
+    "day": 7,
+    "number": 2,
+    "lesson": "2 – In der Firma",
+    "german": "die Steigerung",
+    "type": "Noun",
+    "english": "increase; improvement",
+    "exampleDe": "In der Diskussion ging es um die Steigerung.",
+    "exampleEn": "The discussion was about increase."
+  },
+  {
+    "day": 7,
+    "number": 3,
+    "lesson": "2 – In der Firma",
+    "german": "der Umsatz",
+    "type": "Noun",
+    "english": "turnover; sales",
+    "exampleDe": "In der Diskussion ging es um den Umsatz.",
+    "exampleEn": "The discussion was about turnover."
+  },
+  {
+    "day": 7,
+    "number": 4,
+    "lesson": "2 – In der Firma",
+    "german": "die Werbeaktion",
+    "type": "Noun",
+    "english": "advertising campaign",
+    "exampleDe": "In der Diskussion ging es um die Werbeaktion.",
+    "exampleEn": "The discussion was about advertising campaign."
+  },
+  {
+    "day": 7,
+    "number": 5,
+    "lesson": "2 – In der Firma",
+    "german": "die Ablage",
+    "type": "Noun",
+    "english": "filing tray; filing system",
+    "exampleDe": "In der Diskussion ging es um die Ablage.",
+    "exampleEn": "The discussion was about filing tray."
+  },
+  {
+    "day": 7,
+    "number": 6,
+    "lesson": "2 – In der Firma",
+    "german": "der Assistent",
+    "type": "Noun",
+    "english": "assistant",
+    "exampleDe": "In der Diskussion ging es um den Assistent.",
+    "exampleEn": "The discussion was about assistant."
+  },
+  {
+    "day": 7,
+    "number": 7,
+    "lesson": "2 – In der Firma",
+    "german": "der Bereichsleiter",
+    "type": "Noun",
+    "english": "department manager",
+    "exampleDe": "In der Diskussion ging es um den Bereichsleiter.",
+    "exampleEn": "The discussion was about department manager."
+  },
+  {
+    "day": 7,
+    "number": 8,
+    "lesson": "2 – In der Firma",
+    "german": "die Konferenz",
+    "type": "Noun",
+    "english": "conference",
+    "exampleDe": "In der Diskussion ging es um die Konferenz.",
+    "exampleEn": "The discussion was about conference."
+  },
+  {
+    "day": 7,
+    "number": 9,
+    "lesson": "2 – In der Firma",
+    "german": "die Position",
+    "type": "Noun",
+    "english": "position; role",
+    "exampleDe": "In der Diskussion ging es um die Position.",
+    "exampleEn": "The discussion was about position."
+  },
+  {
+    "day": 7,
+    "number": 10,
+    "lesson": "2 – In der Firma",
+    "german": "der Projektleiter",
+    "type": "Noun",
+    "english": "project manager",
+    "exampleDe": "In der Diskussion ging es um den Projektleiter.",
+    "exampleEn": "The discussion was about project manager."
+  },
+  {
+    "day": 8,
+    "number": 1,
+    "lesson": "2 – In der Firma",
+    "german": "die Unterlage",
+    "type": "Noun",
+    "english": "document; papers",
+    "exampleDe": "In der Diskussion ging es um die Unterlage.",
+    "exampleEn": "The discussion was about document."
+  },
+  {
+    "day": 8,
+    "number": 2,
+    "lesson": "2 – In der Firma",
+    "german": "das Gewissen",
+    "type": "Noun",
+    "english": "conscience",
+    "exampleDe": "In der Diskussion ging es um das Gewissen.",
+    "exampleEn": "The discussion was about conscience."
+  },
+  {
+    "day": 8,
+    "number": 3,
+    "lesson": "2 – In der Firma",
+    "german": "die Offenheit",
+    "type": "Noun",
+    "english": "openness",
+    "exampleDe": "In der Diskussion ging es um die Offenheit.",
+    "exampleEn": "The discussion was about openness."
+  },
+  {
+    "day": 8,
+    "number": 4,
+    "lesson": "2 – In der Firma",
+    "german": "das Stichwort",
+    "type": "Noun",
+    "english": "keyword; cue word",
+    "exampleDe": "In der Diskussion ging es um das Stichwort.",
+    "exampleEn": "The discussion was about keyword."
+  },
+  {
+    "day": 8,
+    "number": 5,
+    "lesson": "2 – In der Firma",
+    "german": "die Besprechung",
+    "type": "Noun",
+    "english": "meeting; discussion",
+    "exampleDe": "In der Diskussion ging es um die Besprechung.",
+    "exampleEn": "The discussion was about meeting."
+  },
+  {
+    "day": 8,
+    "number": 6,
+    "lesson": "2 – In der Firma",
+    "german": "der Diebstahl",
+    "type": "Noun",
+    "english": "theft",
+    "exampleDe": "In der Diskussion ging es um den Diebstahl.",
+    "exampleEn": "The discussion was about theft."
+  },
+  {
+    "day": 8,
+    "number": 7,
+    "lesson": "2 – In der Firma",
+    "german": "das Einverständnis",
+    "type": "Noun",
+    "english": "consent; agreement",
+    "exampleDe": "In der Diskussion ging es um das Einverständnis.",
+    "exampleEn": "The discussion was about consent."
+  },
+  {
+    "day": 8,
+    "number": 8,
+    "lesson": "2 – In der Firma",
+    "german": "die Genehmigung",
+    "type": "Noun",
+    "english": "approval; authorisation",
+    "exampleDe": "In der Diskussion ging es um die Genehmigung.",
+    "exampleEn": "The discussion was about approval."
+  },
+  {
+    "day": 8,
+    "number": 9,
+    "lesson": "2 – In der Firma",
+    "german": "erläutern",
+    "type": "Verb",
+    "english": "to explain; clarify",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „erläutern“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “erläutern” in an example sentence."
+  },
+  {
+    "day": 8,
+    "number": 10,
+    "lesson": "2 – In der Firma",
+    "german": "forschen",
+    "type": "Verb",
+    "english": "to research",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „forschen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “forschen” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 1,
+    "lesson": "2 – In der Firma",
+    "german": "Kontakte knüpfen",
+    "type": "Verb phrase",
+    "english": "to make contacts",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „Kontakte knüpfen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “Kontakte knüpfen” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 2,
+    "lesson": "2 – In der Firma",
+    "german": "mobil sein",
+    "type": "Phrase",
+    "english": "to be mobile",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „mobil sein“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “mobil sein” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 3,
+    "lesson": "2 – In der Firma",
+    "german": "tätig sein",
+    "type": "Phrase",
+    "english": "to be active; employed",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „tätig sein“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “tätig sein” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 4,
+    "lesson": "2 – In der Firma",
+    "german": "zur Verfügung haben",
+    "type": "Verb phrase",
+    "english": "to have available",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „zur Verfügung haben“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “zur Verfügung haben” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 5,
+    "lesson": "2 – In der Firma",
+    "german": "erfahren sein in (+ Dat.)",
+    "type": "Phrase",
+    "english": "to be experienced in",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „erfahren sein in (+ Dat.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “erfahren sein in (+ Dat.)” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 6,
+    "lesson": "2 – In der Firma",
+    "german": "sich spezialisieren auf (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to specialise in",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich spezialisieren auf (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich spezialisieren auf (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 7,
+    "lesson": "2 – In der Firma",
+    "german": "verdreifachen",
+    "type": "Verb",
+    "english": "to triple",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „verdreifachen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “verdreifachen” in an example sentence."
+  },
+  {
+    "day": 9,
+    "number": 8,
+    "lesson": "2 – In der Firma",
+    "german": "kreativ",
+    "type": "Adjective",
+    "english": "creative",
+    "exampleDe": "In dieser Situation ist es wichtig, kreativ zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain creative."
+  },
+  {
+    "day": 9,
+    "number": 9,
+    "lesson": "2 – In der Firma",
+    "german": "teamfähig",
+    "type": "Adjective",
+    "english": "able to work in a team",
+    "exampleDe": "Die Lösung wirkt teamfähig und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems able to work in a team and is easy to implement."
+  },
+  {
+    "day": 9,
+    "number": 10,
+    "lesson": "2 – In der Firma",
+    "german": "unabhängig",
+    "type": "Adjective",
+    "english": "independent",
+    "exampleDe": "Diese Erfahrung war für mich besonders unabhängig.",
+    "exampleEn": "This experience was particularly independent for me."
+  },
+  {
+    "day": 10,
+    "number": 1,
+    "lesson": "2 – In der Firma",
+    "german": "bedenklich",
+    "type": "Adjective",
+    "english": "worrying; questionable",
+    "exampleDe": "Seine Beschreibung klingt sehr bedenklich.",
+    "exampleEn": "His description sounds very worrying."
+  },
+  {
+    "day": 10,
+    "number": 2,
+    "lesson": "2 – In der Firma",
+    "german": "fristlos",
+    "type": "Adjective",
+    "english": "without notice; immediate",
+    "exampleDe": "In dieser Situation ist es wichtig, fristlos zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain without notice."
+  },
+  {
+    "day": 10,
+    "number": 3,
+    "lesson": "3 – Medien",
+    "german": "das Medium",
+    "type": "Noun",
+    "english": "medium",
+    "exampleDe": "In der Diskussion ging es um das Medium.",
+    "exampleEn": "The discussion was about medium."
+  },
+  {
+    "day": 10,
+    "number": 4,
+    "lesson": "3 – Medien",
+    "german": "die Nutzung",
+    "type": "Noun",
+    "english": "use; usage",
+    "exampleDe": "In der Diskussion ging es um die Nutzung.",
+    "exampleEn": "The discussion was about use."
+  },
+  {
+    "day": 10,
+    "number": 5,
+    "lesson": "3 – Medien",
+    "german": "die Buchhändlerin",
+    "type": "Noun",
+    "english": "bookseller (female)",
+    "exampleDe": "In der Diskussion ging es um die Buchhändlerin.",
+    "exampleEn": "The discussion was about bookseller (female)."
+  },
+  {
+    "day": 10,
+    "number": 6,
+    "lesson": "3 – Medien",
+    "german": "die Lesung",
+    "type": "Noun",
+    "english": "reading; literary event",
+    "exampleDe": "In der Diskussion ging es um die Lesung.",
+    "exampleEn": "The discussion was about reading."
+  },
+  {
+    "day": 10,
+    "number": 7,
+    "lesson": "3 – Medien",
+    "german": "die Neuheit",
+    "type": "Noun",
+    "english": "novelty; new release",
+    "exampleDe": "In der Diskussion ging es um die Neuheit.",
+    "exampleEn": "The discussion was about novelty."
+  },
+  {
+    "day": 10,
+    "number": 8,
+    "lesson": "3 – Medien",
+    "german": "das Sachbuch",
+    "type": "Noun",
+    "english": "non-fiction book",
+    "exampleDe": "In der Diskussion ging es um das Sachbuch.",
+    "exampleEn": "The discussion was about non-fiction book."
+  },
+  {
+    "day": 10,
+    "number": 9,
+    "lesson": "3 – Medien",
+    "german": "der Stammkunde",
+    "type": "Noun",
+    "english": "regular customer",
+    "exampleDe": "In der Diskussion ging es um den Stammkunde.",
+    "exampleEn": "The discussion was about regular customer."
+  },
+  {
+    "day": 10,
+    "number": 10,
+    "lesson": "3 – Medien",
+    "german": "die Aufnahme",
+    "type": "Noun",
+    "english": "recording; photograph",
+    "exampleDe": "In der Diskussion ging es um die Aufnahme.",
+    "exampleEn": "The discussion was about recording."
+  },
+  {
+    "day": 11,
+    "number": 1,
+    "lesson": "3 – Medien",
+    "german": "der Bildband",
+    "type": "Noun",
+    "english": "illustrated book; photo book",
+    "exampleDe": "In der Diskussion ging es um den Bildband.",
+    "exampleEn": "The discussion was about illustrated book."
+  },
+  {
+    "day": 11,
+    "number": 2,
+    "lesson": "3 – Medien",
+    "german": "die Leseratte",
+    "type": "Noun",
+    "english": "bookworm",
+    "exampleDe": "In der Diskussion ging es um die Leseratte.",
+    "exampleEn": "The discussion was about bookworm."
+  },
+  {
+    "day": 11,
+    "number": 3,
+    "lesson": "3 – Medien",
+    "german": "die Auflage",
+    "type": "Noun",
+    "english": "edition; print run",
+    "exampleDe": "In der Diskussion ging es um die Auflage.",
+    "exampleEn": "The discussion was about edition."
+  },
+  {
+    "day": 11,
+    "number": 4,
+    "lesson": "3 – Medien",
+    "german": "die Befürchtung",
+    "type": "Noun",
+    "english": "fear; concern",
+    "exampleDe": "In der Diskussion ging es um die Befürchtung.",
+    "exampleEn": "The discussion was about fear."
+  },
+  {
+    "day": 11,
+    "number": 5,
+    "lesson": "3 – Medien",
+    "german": "die Branche",
+    "type": "Noun",
+    "english": "industry; sector",
+    "exampleDe": "In der Diskussion ging es um die Branche.",
+    "exampleEn": "The discussion was about industry."
+  },
+  {
+    "day": 11,
+    "number": 6,
+    "lesson": "3 – Medien",
+    "german": "das Geschehen",
+    "type": "Noun",
+    "english": "events; happenings",
+    "exampleDe": "In der Diskussion ging es um das Geschehen.",
+    "exampleEn": "The discussion was about events."
+  },
+  {
+    "day": 11,
+    "number": 7,
+    "lesson": "3 – Medien",
+    "german": "der/die Gleichaltrige",
+    "type": "Noun",
+    "english": "person of the same age",
+    "exampleDe": "In der Diskussion ging es um die Gleichaltrige.",
+    "exampleEn": "The discussion was about person of the same age."
+  },
+  {
+    "day": 11,
+    "number": 8,
+    "lesson": "3 – Medien",
+    "german": "der/die Heranwachsende",
+    "type": "Noun",
+    "english": "adolescent; young person",
+    "exampleDe": "In der Diskussion ging es um die Heranwachsende.",
+    "exampleEn": "The discussion was about adolescent."
+  },
+  {
+    "day": 11,
+    "number": 9,
+    "lesson": "3 – Medien",
+    "german": "das Nachrichtenmagazin",
+    "type": "Noun",
+    "english": "news magazine",
+    "exampleDe": "In der Diskussion ging es um das Nachrichtenmagazin.",
+    "exampleEn": "The discussion was about news magazine."
+  },
+  {
+    "day": 11,
+    "number": 10,
+    "lesson": "3 – Medien",
+    "german": "die Popularität",
+    "type": "Noun",
+    "english": "popularity",
+    "exampleDe": "In der Diskussion ging es um die Popularität.",
+    "exampleEn": "The discussion was about popularity."
+  },
+  {
+    "day": 12,
+    "number": 1,
+    "lesson": "3 – Medien",
+    "german": "das Printmedium",
+    "type": "Noun",
+    "english": "print medium",
+    "exampleDe": "In der Diskussion ging es um das Printmedium.",
+    "exampleEn": "The discussion was about print medium."
+  },
+  {
+    "day": 12,
+    "number": 2,
+    "lesson": "3 – Medien",
+    "german": "das Vorbild",
+    "type": "Noun",
+    "english": "role model",
+    "exampleDe": "In der Diskussion ging es um das Vorbild.",
+    "exampleEn": "The discussion was about role model."
+  },
+  {
+    "day": 12,
+    "number": 3,
+    "lesson": "3 – Medien",
+    "german": "der Dokumentarfilm",
+    "type": "Noun",
+    "english": "documentary film",
+    "exampleDe": "In der Diskussion ging es um den Dokumentarfilm.",
+    "exampleEn": "The discussion was about documentary film."
+  },
+  {
+    "day": 12,
+    "number": 4,
+    "lesson": "3 – Medien",
+    "german": "das Drehbuch",
+    "type": "Noun",
+    "english": "screenplay",
+    "exampleDe": "In der Diskussion ging es um das Drehbuch.",
+    "exampleEn": "The discussion was about screenplay."
+  },
+  {
+    "day": 12,
+    "number": 5,
+    "lesson": "3 – Medien",
+    "german": "der Drehort",
+    "type": "Noun",
+    "english": "film location",
+    "exampleDe": "In der Diskussion ging es um den Drehort.",
+    "exampleEn": "The discussion was about film location."
+  },
+  {
+    "day": 12,
+    "number": 6,
+    "lesson": "3 – Medien",
+    "german": "der Hintergrund",
+    "type": "Noun",
+    "english": "background",
+    "exampleDe": "In der Diskussion ging es um den Hintergrund.",
+    "exampleEn": "The discussion was about background."
+  },
+  {
+    "day": 12,
+    "number": 7,
+    "lesson": "3 – Medien",
+    "german": "der Horrorfilm",
+    "type": "Noun",
+    "english": "horror film",
+    "exampleDe": "In der Diskussion ging es um den Horrorfilm.",
+    "exampleEn": "The discussion was about horror film."
+  },
+  {
+    "day": 12,
+    "number": 8,
+    "lesson": "3 – Medien",
+    "german": "die Komödie",
+    "type": "Noun",
+    "english": "comedy",
+    "exampleDe": "In der Diskussion ging es um die Komödie.",
+    "exampleEn": "The discussion was about comedy."
+  },
+  {
+    "day": 12,
+    "number": 9,
+    "lesson": "3 – Medien",
+    "german": "der Regisseur",
+    "type": "Noun",
+    "english": "director",
+    "exampleDe": "In der Diskussion ging es um den Regisseur.",
+    "exampleEn": "The discussion was about director."
+  },
+  {
+    "day": 12,
+    "number": 10,
+    "lesson": "3 – Medien",
+    "german": "das Skript",
+    "type": "Noun",
+    "english": "script",
+    "exampleDe": "In der Diskussion ging es um das Skript.",
+    "exampleEn": "The discussion was about script."
+  },
+  {
+    "day": 13,
+    "number": 1,
+    "lesson": "3 – Medien",
+    "german": "die Szene",
+    "type": "Noun",
+    "english": "scene",
+    "exampleDe": "In der Diskussion ging es um die Szene.",
+    "exampleEn": "The discussion was about scene."
+  },
+  {
+    "day": 13,
+    "number": 2,
+    "lesson": "3 – Medien",
+    "german": "die Vorlage",
+    "type": "Noun",
+    "english": "template; original source",
+    "exampleDe": "In der Diskussion ging es um die Vorlage.",
+    "exampleEn": "The discussion was about template."
+  },
+  {
+    "day": 13,
+    "number": 3,
+    "lesson": "3 – Medien",
+    "german": "die Großleinwand",
+    "type": "Noun",
+    "english": "large screen",
+    "exampleDe": "In der Diskussion ging es um die Großleinwand.",
+    "exampleEn": "The discussion was about large screen."
+  },
+  {
+    "day": 13,
+    "number": 4,
+    "lesson": "3 – Medien",
+    "german": "die Schwäche",
+    "type": "Noun",
+    "english": "weakness",
+    "exampleDe": "In der Diskussion ging es um die Schwäche.",
+    "exampleEn": "The discussion was about weakness."
+  },
+  {
+    "day": 13,
+    "number": 5,
+    "lesson": "3 – Medien",
+    "german": "die Komplexität",
+    "type": "Noun",
+    "english": "complexity",
+    "exampleDe": "In der Diskussion ging es um die Komplexität.",
+    "exampleEn": "The discussion was about complexity."
+  },
+  {
+    "day": 13,
+    "number": 6,
+    "lesson": "3 – Medien",
+    "german": "die Meldung",
+    "type": "Noun",
+    "english": "news item; report",
+    "exampleDe": "In der Diskussion ging es um die Meldung.",
+    "exampleEn": "The discussion was about news item."
+  },
+  {
+    "day": 13,
+    "number": 7,
+    "lesson": "3 – Medien",
+    "german": "die Quelle",
+    "type": "Noun",
+    "english": "source",
+    "exampleDe": "In der Diskussion ging es um die Quelle.",
+    "exampleEn": "The discussion was about source."
+  },
+  {
+    "day": 13,
+    "number": 8,
+    "lesson": "3 – Medien",
+    "german": "benutzen",
+    "type": "Verb",
+    "english": "to use",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „benutzen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “benutzen” in an example sentence."
+  },
+  {
+    "day": 13,
+    "number": 9,
+    "lesson": "3 – Medien",
+    "german": "nutzen",
+    "type": "Verb",
+    "english": "to use; make use of",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „nutzen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “nutzen” in an example sentence."
+  },
+  {
+    "day": 13,
+    "number": 10,
+    "lesson": "3 – Medien",
+    "german": "animieren zu (+ Dat.)",
+    "type": "Verb phrase",
+    "english": "to encourage; motivate to",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „animieren zu (+ Dat.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “animieren zu (+ Dat.)” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 1,
+    "lesson": "3 – Medien",
+    "german": "beurteilen",
+    "type": "Verb",
+    "english": "to assess; judge",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „beurteilen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “beurteilen” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 2,
+    "lesson": "3 – Medien",
+    "german": "quatschen",
+    "type": "Verb",
+    "english": "to chat",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „quatschen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “quatschen” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 3,
+    "lesson": "3 – Medien",
+    "german": "verführerisch",
+    "type": "Adjective",
+    "english": "tempting; seductive",
+    "exampleDe": "Die Lösung wirkt verführerisch und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems tempting and is easy to implement."
+  },
+  {
+    "day": 14,
+    "number": 4,
+    "lesson": "3 – Medien",
+    "german": "anrühren",
+    "type": "Verb",
+    "english": "to touch; stir",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „anrühren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “anrühren” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 5,
+    "lesson": "3 – Medien",
+    "german": "zugreifen",
+    "type": "Verb",
+    "english": "to grab; take advantage",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „zugreifen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “zugreifen” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 6,
+    "lesson": "3 – Medien",
+    "german": "auswendig lernen",
+    "type": "Verb phrase",
+    "english": "to learn by heart",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „auswendig lernen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “auswendig lernen” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 7,
+    "lesson": "3 – Medien",
+    "german": "einen Film drehen",
+    "type": "Verb phrase",
+    "english": "to shoot a film",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „einen Film drehen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “einen Film drehen” in an example sentence."
+  },
+  {
+    "day": 14,
+    "number": 8,
+    "lesson": "3 – Medien",
+    "german": "abwechslungsreich",
+    "type": "Adjective",
+    "english": "varied",
+    "exampleDe": "Diese Erfahrung war für mich besonders abwechslungsreich.",
+    "exampleEn": "This experience was particularly varied for me."
+  },
+  {
+    "day": 14,
+    "number": 9,
+    "lesson": "3 – Medien",
+    "german": "authentisch",
+    "type": "Adjective",
+    "english": "authentic",
+    "exampleDe": "Seine Beschreibung klingt sehr authentisch.",
+    "exampleEn": "His description sounds very authentic."
+  },
+  {
+    "day": 14,
+    "number": 10,
+    "lesson": "3 – Medien",
+    "german": "anspruchsvoll",
+    "type": "Adjective",
+    "english": "demanding; sophisticated",
+    "exampleDe": "In dieser Situation ist es wichtig, anspruchsvoll zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain demanding."
+  },
+  {
+    "day": 15,
+    "number": 1,
+    "lesson": "3 – Medien",
+    "german": "unterhaltsam",
+    "type": "Adjective",
+    "english": "entertaining",
+    "exampleDe": "Die Lösung wirkt unterhaltsam und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems entertaining and is easy to implement."
+  },
+  {
+    "day": 15,
+    "number": 2,
+    "lesson": "3 – Medien",
+    "german": "übersichtlich",
+    "type": "Adjective",
+    "english": "clear; well-organised",
+    "exampleDe": "Diese Erfahrung war für mich besonders übersichtlich.",
+    "exampleEn": "This experience was particularly clear for me."
+  },
+  {
+    "day": 15,
+    "number": 3,
+    "lesson": "4 – Nach der Schule",
+    "german": "das Bildungswerk",
+    "type": "Noun",
+    "english": "educational institution",
+    "exampleDe": "In der Diskussion ging es um das Bildungswerk.",
+    "exampleEn": "The discussion was about educational institution."
+  },
+  {
+    "day": 15,
+    "number": 4,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Bundesfreiwilligendienst",
+    "type": "Noun",
+    "english": "Federal Volunteer Service (Germany)",
+    "exampleDe": "In der Diskussion ging es um den Bundesfreiwilligendienst.",
+    "exampleEn": "The discussion was about Federal Volunteer Service (Germany)."
+  },
+  {
+    "day": 15,
+    "number": 5,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Einrichtung",
+    "type": "Noun",
+    "english": "institution; facility",
+    "exampleDe": "In der Diskussion ging es um die Einrichtung.",
+    "exampleEn": "The discussion was about institution."
+  },
+  {
+    "day": 15,
+    "number": 6,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Aufenthaltserlaubnis",
+    "type": "Noun",
+    "english": "residence permit",
+    "exampleDe": "In der Diskussion ging es um die Aufenthaltserlaubnis.",
+    "exampleEn": "The discussion was about residence permit."
+  },
+  {
+    "day": 15,
+    "number": 7,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Auszeit",
+    "type": "Noun",
+    "english": "time-out; break",
+    "exampleDe": "In der Diskussion ging es um die Auszeit.",
+    "exampleEn": "The discussion was about time-out."
+  },
+  {
+    "day": 15,
+    "number": 8,
+    "lesson": "4 – Nach der Schule",
+    "german": "das Brückenjahr",
+    "type": "Noun",
+    "english": "gap year; transition year",
+    "exampleDe": "In der Diskussion ging es um das Brückenjahr.",
+    "exampleEn": "The discussion was about gap year."
+  },
+  {
+    "day": 15,
+    "number": 9,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Behindertenwerkstatt",
+    "type": "Noun",
+    "english": "workshop for people with disabilities",
+    "exampleDe": "In der Diskussion ging es um die Behindertenwerkstatt.",
+    "exampleEn": "The discussion was about workshop for people with disabilities."
+  },
+  {
+    "day": 15,
+    "number": 10,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Beliebtheitsskala",
+    "type": "Noun",
+    "english": "popularity ranking",
+    "exampleDe": "In der Diskussion ging es um die Beliebtheitsskala.",
+    "exampleEn": "The discussion was about popularity ranking."
+  },
+  {
+    "day": 16,
+    "number": 1,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Dienstleistung",
+    "type": "Noun",
+    "english": "service",
+    "exampleDe": "In der Diskussion ging es um die Dienstleistung.",
+    "exampleEn": "The discussion was about service."
+  },
+  {
+    "day": 16,
+    "number": 2,
+    "lesson": "4 – Nach der Schule",
+    "german": "der/die Einheimische",
+    "type": "Noun",
+    "english": "local; native",
+    "exampleDe": "In der Diskussion ging es um die Einheimische.",
+    "exampleEn": "The discussion was about local."
+  },
+  {
+    "day": 16,
+    "number": 3,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Gegenseitigkeit",
+    "type": "Noun",
+    "english": "mutuality",
+    "exampleDe": "In der Diskussion ging es um die Gegenseitigkeit.",
+    "exampleEn": "The discussion was about mutuality."
+  },
+  {
+    "day": 16,
+    "number": 4,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Gelegenheitsjob",
+    "type": "Noun",
+    "english": "temporary job; casual job",
+    "exampleDe": "In der Diskussion ging es um den Gelegenheitsjob.",
+    "exampleEn": "The discussion was about temporary job."
+  },
+  {
+    "day": 16,
+    "number": 5,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Schulabgänger",
+    "type": "Noun",
+    "english": "school leaver",
+    "exampleDe": "In der Diskussion ging es um den Schulabgänger.",
+    "exampleEn": "The discussion was about school leaver."
+  },
+  {
+    "day": 16,
+    "number": 6,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Zuschuss",
+    "type": "Noun",
+    "english": "grant; subsidy",
+    "exampleDe": "In der Diskussion ging es um den Zuschuss.",
+    "exampleEn": "The discussion was about grant."
+  },
+  {
+    "day": 16,
+    "number": 7,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Bereicherung",
+    "type": "Noun",
+    "english": "enrichment",
+    "exampleDe": "In der Diskussion ging es um die Bereicherung.",
+    "exampleEn": "The discussion was about enrichment."
+  },
+  {
+    "day": 16,
+    "number": 8,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Eintrag",
+    "type": "Noun",
+    "english": "entry; post",
+    "exampleDe": "In der Diskussion ging es um den Eintrag.",
+    "exampleEn": "The discussion was about entry."
+  },
+  {
+    "day": 16,
+    "number": 9,
+    "lesson": "4 – Nach der Schule",
+    "german": "das Mitbringsel",
+    "type": "Noun",
+    "english": "small gift; souvenir",
+    "exampleDe": "In der Diskussion ging es um das Mitbringsel.",
+    "exampleEn": "The discussion was about small gift."
+  },
+  {
+    "day": 16,
+    "number": 10,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Beruforientierung",
+    "type": "Noun",
+    "english": "career guidance",
+    "exampleDe": "In der Diskussion ging es um die Beruforientierung.",
+    "exampleEn": "The discussion was about career guidance."
+  },
+  {
+    "day": 17,
+    "number": 1,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Berufsorientierungsmesse",
+    "type": "Noun",
+    "english": "career fair",
+    "exampleDe": "In der Diskussion ging es um die Berufsorientierungsmesse.",
+    "exampleEn": "The discussion was about career fair."
+  },
+  {
+    "day": 17,
+    "number": 2,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Notendurchschnitt",
+    "type": "Noun",
+    "english": "grade point average",
+    "exampleDe": "In der Diskussion ging es um den Notendurchschnitt.",
+    "exampleEn": "The discussion was about grade point average."
+  },
+  {
+    "day": 17,
+    "number": 3,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Leistungsdruck",
+    "type": "Noun",
+    "english": "performance pressure",
+    "exampleDe": "In der Diskussion ging es um den Leistungsdruck.",
+    "exampleEn": "The discussion was about performance pressure."
+  },
+  {
+    "day": 17,
+    "number": 4,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Vorliebe",
+    "type": "Noun",
+    "english": "preference",
+    "exampleDe": "In der Diskussion ging es um die Vorliebe.",
+    "exampleEn": "The discussion was about preference."
+  },
+  {
+    "day": 17,
+    "number": 5,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Werkstudent",
+    "type": "Noun",
+    "english": "working student",
+    "exampleDe": "In der Diskussion ging es um den Werkstudent.",
+    "exampleEn": "The discussion was about working student."
+  },
+  {
+    "day": 17,
+    "number": 6,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Aufnahmeprüfung",
+    "type": "Noun",
+    "english": "entrance examination",
+    "exampleDe": "In der Diskussion ging es um die Aufnahmeprüfung.",
+    "exampleEn": "The discussion was about entrance examination."
+  },
+  {
+    "day": 17,
+    "number": 7,
+    "lesson": "4 – Nach der Schule",
+    "german": "das Bühnenbild",
+    "type": "Noun",
+    "english": "stage set; scenery",
+    "exampleDe": "In der Diskussion ging es um das Bühnenbild.",
+    "exampleEn": "The discussion was about stage set."
+  },
+  {
+    "day": 17,
+    "number": 8,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Klassiker",
+    "type": "Noun",
+    "english": "classic",
+    "exampleDe": "In der Diskussion ging es um den Klassiker.",
+    "exampleEn": "The discussion was about classic."
+  },
+  {
+    "day": 17,
+    "number": 9,
+    "lesson": "4 – Nach der Schule",
+    "german": "die Niederlage",
+    "type": "Noun",
+    "english": "defeat",
+    "exampleDe": "In der Diskussion ging es um die Niederlage.",
+    "exampleEn": "The discussion was about defeat."
+  },
+  {
+    "day": 17,
+    "number": 10,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Spielplan",
+    "type": "Noun",
+    "english": "programme; schedule",
+    "exampleDe": "In der Diskussion ging es um den Spielplan.",
+    "exampleEn": "The discussion was about programme."
+  },
+  {
+    "day": 18,
+    "number": 1,
+    "lesson": "4 – Nach der Schule",
+    "german": "der Studiengang",
+    "type": "Noun",
+    "english": "degree programme",
+    "exampleDe": "In der Diskussion ging es um den Studiengang.",
+    "exampleEn": "The discussion was about degree programme."
+  },
+  {
+    "day": 18,
+    "number": 2,
+    "lesson": "4 – Nach der Schule",
+    "german": "leisten",
+    "type": "Verb",
+    "english": "to perform; provide",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „leisten“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “leisten” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 3,
+    "lesson": "4 – Nach der Schule",
+    "german": "begrenzen",
+    "type": "Verb",
+    "english": "to limit",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „begrenzen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “begrenzen” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 4,
+    "lesson": "4 – Nach der Schule",
+    "german": "durchatmen",
+    "type": "Verb",
+    "english": "to take a deep breath",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „durchatmen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “durchatmen” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 5,
+    "lesson": "4 – Nach der Schule",
+    "german": "sich etwas erfüllen",
+    "type": "Verb phrase",
+    "english": "to fulfil a wish",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich etwas erfüllen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich etwas erfüllen” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 6,
+    "lesson": "4 – Nach der Schule",
+    "german": "sich etwas leisten",
+    "type": "Verb phrase",
+    "english": "to afford something",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich etwas leisten“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich etwas leisten” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 7,
+    "lesson": "4 – Nach der Schule",
+    "german": "sich wenden an (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to turn to; contact",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich wenden an (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich wenden an (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 8,
+    "lesson": "4 – Nach der Schule",
+    "german": "bewerten",
+    "type": "Verb",
+    "english": "to evaluate",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „bewerten“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “bewerten” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 9,
+    "lesson": "4 – Nach der Schule",
+    "german": "beifügen",
+    "type": "Verb",
+    "english": "to enclose; attach",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „beifügen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “beifügen” in an example sentence."
+  },
+  {
+    "day": 18,
+    "number": 10,
+    "lesson": "4 – Nach der Schule",
+    "german": "zugeben",
+    "type": "Verb",
+    "english": "to admit",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „zugeben“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “zugeben” in an example sentence."
+  },
+  {
+    "day": 19,
+    "number": 1,
+    "lesson": "4 – Nach der Schule",
+    "german": "Wissen erwerben",
+    "type": "Verb phrase",
+    "english": "to acquire knowledge",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „Wissen erwerben“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “Wissen erwerben” in an example sentence."
+  },
+  {
+    "day": 19,
+    "number": 2,
+    "lesson": "4 – Nach der Schule",
+    "german": "Kenntnisse anwenden",
+    "type": "Verb phrase",
+    "english": "to apply knowledge",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „Kenntnisse anwenden“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “Kenntnisse anwenden” in an example sentence."
+  },
+  {
+    "day": 19,
+    "number": 3,
+    "lesson": "4 – Nach der Schule",
+    "german": "einheimisch",
+    "type": "Adjective",
+    "english": "native; local",
+    "exampleDe": "Seine Beschreibung klingt sehr einheimisch.",
+    "exampleEn": "His description sounds very native."
+  },
+  {
+    "day": 19,
+    "number": 4,
+    "lesson": "4 – Nach der Schule",
+    "german": "gemeinnützig",
+    "type": "Adjective",
+    "english": "non-profit; charitable",
+    "exampleDe": "In dieser Situation ist es wichtig, gemeinnützig zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain non-profit."
+  },
+  {
+    "day": 19,
+    "number": 5,
+    "lesson": "4 – Nach der Schule",
+    "german": "geeignet sein für",
+    "type": "Phrase",
+    "english": "to be suitable for",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „geeignet sein für“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “geeignet sein für” in an example sentence."
+  },
+  {
+    "day": 19,
+    "number": 6,
+    "lesson": "4 – Nach der Schule",
+    "german": "infrage kommen für",
+    "type": "Verb phrase",
+    "english": "to be considered for; be an option for",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „infrage kommen für“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “infrage kommen für” in an example sentence."
+  },
+  {
+    "day": 19,
+    "number": 7,
+    "lesson": "4 – Nach der Schule",
+    "german": "lohnend",
+    "type": "Adjective",
+    "english": "worthwhile",
+    "exampleDe": "Seine Beschreibung klingt sehr lohnend.",
+    "exampleEn": "His description sounds very worthwhile."
+  },
+  {
+    "day": 19,
+    "number": 8,
+    "lesson": "4 – Nach der Schule",
+    "german": "vergleichsweise",
+    "type": "Adverb",
+    "english": "comparatively",
+    "exampleDe": "In dieser Situation ist es wichtig, vergleichsweise zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain comparatively."
+  },
+  {
+    "day": 19,
+    "number": 9,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Fotomontage",
+    "type": "Noun",
+    "english": "photomontage",
+    "exampleDe": "In der Diskussion ging es um die Fotomontage.",
+    "exampleEn": "The discussion was about photomontage."
+  },
+  {
+    "day": 19,
+    "number": 10,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Hilfsmittel",
+    "type": "Noun",
+    "english": "aid; tool",
+    "exampleDe": "In der Diskussion ging es um das Hilfsmittel.",
+    "exampleEn": "The discussion was about aid."
+  },
+  {
+    "day": 20,
+    "number": 1,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Kampagne",
+    "type": "Noun",
+    "english": "campaign",
+    "exampleDe": "In der Diskussion ging es um die Kampagne.",
+    "exampleEn": "The discussion was about campaign."
+  },
+  {
+    "day": 20,
+    "number": 2,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Styling",
+    "type": "Noun",
+    "english": "styling",
+    "exampleDe": "In der Diskussion ging es um das Styling.",
+    "exampleEn": "The discussion was about styling."
+  },
+  {
+    "day": 20,
+    "number": 3,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Ausgabe",
+    "type": "Noun",
+    "english": "issue; edition",
+    "exampleDe": "In der Diskussion ging es um die Ausgabe.",
+    "exampleEn": "The discussion was about issue."
+  },
+  {
+    "day": 20,
+    "number": 4,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Ausschreibung",
+    "type": "Noun",
+    "english": "tender; announcement",
+    "exampleDe": "In der Diskussion ging es um die Ausschreibung.",
+    "exampleEn": "The discussion was about tender."
+  },
+  {
+    "day": 20,
+    "number": 5,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Aspekt",
+    "type": "Noun",
+    "english": "aspect",
+    "exampleDe": "In der Diskussion ging es um den Aspekt.",
+    "exampleEn": "The discussion was about aspect."
+  },
+  {
+    "day": 20,
+    "number": 6,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Klamotten",
+    "type": "Noun (plural)",
+    "english": "clothes (informal)",
+    "exampleDe": "In der Diskussion ging es um die Klamotten.",
+    "exampleEn": "The discussion was about clothes (informal)."
+  },
+  {
+    "day": 20,
+    "number": 7,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Laufsteg",
+    "type": "Noun",
+    "english": "catwalk; runway",
+    "exampleDe": "In der Diskussion ging es um den Laufsteg.",
+    "exampleEn": "The discussion was about catwalk."
+  },
+  {
+    "day": 20,
+    "number": 8,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Makel",
+    "type": "Noun",
+    "english": "flaw; blemish",
+    "exampleDe": "In der Diskussion ging es um den Makel.",
+    "exampleEn": "The discussion was about flaw."
+  },
+  {
+    "day": 20,
+    "number": 9,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Model",
+    "type": "Noun",
+    "english": "model",
+    "exampleDe": "In der Diskussion ging es um das Model.",
+    "exampleEn": "The discussion was about model."
+  },
+  {
+    "day": 20,
+    "number": 10,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Wettbewerb",
+    "type": "Noun",
+    "english": "competition",
+    "exampleDe": "In der Diskussion ging es um den Wettbewerb.",
+    "exampleEn": "The discussion was about competition."
+  },
+  {
+    "day": 21,
+    "number": 1,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Entdeckung",
+    "type": "Noun",
+    "english": "discovery",
+    "exampleDe": "In der Diskussion ging es um die Entdeckung.",
+    "exampleEn": "The discussion was about discovery."
+  },
+  {
+    "day": 21,
+    "number": 2,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Mentalität",
+    "type": "Noun",
+    "english": "mentality",
+    "exampleDe": "In der Diskussion ging es um die Mentalität.",
+    "exampleEn": "The discussion was about mentality."
+  },
+  {
+    "day": 21,
+    "number": 3,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Schönheitsideal",
+    "type": "Noun",
+    "english": "beauty ideal",
+    "exampleDe": "In der Diskussion ging es um das Schönheitsideal.",
+    "exampleEn": "The discussion was about beauty ideal."
+  },
+  {
+    "day": 21,
+    "number": 4,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Augenbraue",
+    "type": "Noun",
+    "english": "eyebrow",
+    "exampleDe": "In der Diskussion ging es um die Augenbraue.",
+    "exampleEn": "The discussion was about eyebrow."
+  },
+  {
+    "day": 21,
+    "number": 5,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Äußerlichkeit",
+    "type": "Noun",
+    "english": "outward appearance",
+    "exampleDe": "In der Diskussion ging es um die Äußerlichkeit.",
+    "exampleEn": "The discussion was about outward appearance."
+  },
+  {
+    "day": 21,
+    "number": 6,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Garderobe",
+    "type": "Noun",
+    "english": "wardrobe; cloakroom",
+    "exampleDe": "In der Diskussion ging es um die Garderobe.",
+    "exampleEn": "The discussion was about wardrobe."
+  },
+  {
+    "day": 21,
+    "number": 7,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Körperbehaarung",
+    "type": "Noun",
+    "english": "body hair",
+    "exampleDe": "In der Diskussion ging es um die Körperbehaarung.",
+    "exampleEn": "The discussion was about body hair."
+  },
+  {
+    "day": 21,
+    "number": 8,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Kosmetikerin",
+    "type": "Noun",
+    "english": "beautician",
+    "exampleDe": "In der Diskussion ging es um die Kosmetikerin.",
+    "exampleEn": "The discussion was about beautician."
+  },
+  {
+    "day": 21,
+    "number": 9,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Beweglichkeit",
+    "type": "Noun",
+    "english": "mobility; flexibility",
+    "exampleDe": "In der Diskussion ging es um die Beweglichkeit.",
+    "exampleEn": "The discussion was about mobility."
+  },
+  {
+    "day": 21,
+    "number": 10,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Fitness",
+    "type": "Noun",
+    "english": "fitness",
+    "exampleDe": "In der Diskussion ging es um die Fitness.",
+    "exampleEn": "The discussion was about fitness."
+  },
+  {
+    "day": 22,
+    "number": 1,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Gelenk",
+    "type": "Noun",
+    "english": "joint",
+    "exampleDe": "In der Diskussion ging es um das Gelenk.",
+    "exampleEn": "The discussion was about joint."
+  },
+  {
+    "day": 22,
+    "number": 2,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Gleichgewicht",
+    "type": "Noun",
+    "english": "balance",
+    "exampleDe": "In der Diskussion ging es um das Gleichgewicht.",
+    "exampleEn": "The discussion was about balance."
+  },
+  {
+    "day": 22,
+    "number": 3,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Haltung",
+    "type": "Noun",
+    "english": "posture; attitude",
+    "exampleDe": "In der Diskussion ging es um die Haltung.",
+    "exampleEn": "The discussion was about posture."
+  },
+  {
+    "day": 22,
+    "number": 4,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Kondition",
+    "type": "Noun",
+    "english": "stamina; fitness",
+    "exampleDe": "In der Diskussion ging es um die Kondition.",
+    "exampleEn": "The discussion was about stamina."
+  },
+  {
+    "day": 22,
+    "number": 5,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Koordination",
+    "type": "Noun",
+    "english": "coordination",
+    "exampleDe": "In der Diskussion ging es um die Koordination.",
+    "exampleEn": "The discussion was about coordination."
+  },
+  {
+    "day": 22,
+    "number": 6,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Muskel",
+    "type": "Noun",
+    "english": "muscle",
+    "exampleDe": "In der Diskussion ging es um den Muskel.",
+    "exampleEn": "The discussion was about muscle."
+  },
+  {
+    "day": 22,
+    "number": 7,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Lücke",
+    "type": "Noun",
+    "english": "gap; space",
+    "exampleDe": "In der Diskussion ging es um die Lücke.",
+    "exampleEn": "The discussion was about gap."
+  },
+  {
+    "day": 22,
+    "number": 8,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "der Inserent",
+    "type": "Noun",
+    "english": "advertiser; person placing an ad",
+    "exampleDe": "In der Diskussion ging es um den Inserent.",
+    "exampleEn": "The discussion was about advertiser."
+  },
+  {
+    "day": 22,
+    "number": 9,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "das Niveau",
+    "type": "Noun",
+    "english": "level; standard",
+    "exampleDe": "In der Diskussion ging es um das Niveau.",
+    "exampleEn": "The discussion was about level."
+  },
+  {
+    "day": 22,
+    "number": 10,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "die Choreographie",
+    "type": "Noun",
+    "english": "choreography",
+    "exampleDe": "In der Diskussion ging es um die Choreographie.",
+    "exampleEn": "The discussion was about choreography."
+  },
+  {
+    "day": 23,
+    "number": 1,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "abraten von (+ Dat.)",
+    "type": "Verb phrase",
+    "english": "to advise against",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „abraten von (+ Dat.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “abraten von (+ Dat.)” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 2,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "sich engagieren für (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to get involved in; support",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich engagieren für (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich engagieren für (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 3,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "färben",
+    "type": "Verb",
+    "english": "to dye; colour",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „färben“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “färben” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 4,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "lackieren",
+    "type": "Verb",
+    "english": "to paint; apply polish",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „lackieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “lackieren” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 5,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "plädieren für (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to advocate; argue for",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „plädieren für (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “plädieren für (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 6,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "übertreiben",
+    "type": "Verb",
+    "english": "to exaggerate",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „übertreiben“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “übertreiben” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 7,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "sich beschränken auf (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to limit oneself to",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich beschränken auf (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich beschränken auf (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 8,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "durchblättern",
+    "type": "Verb",
+    "english": "to leaf through",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „durchblättern“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “durchblättern” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 9,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "irritieren",
+    "type": "Verb",
+    "english": "to irritate; confuse",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „irritieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “irritieren” in an example sentence."
+  },
+  {
+    "day": 23,
+    "number": 10,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "staunen über (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to be amazed at",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „staunen über (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “staunen über (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 24,
+    "number": 1,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "verzichten auf (+ Akk.)",
+    "type": "Verb phrase",
+    "english": "to do without; give up",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „verzichten auf (+ Akk.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “verzichten auf (+ Akk.)” in an example sentence."
+  },
+  {
+    "day": 24,
+    "number": 2,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "zustimmen",
+    "type": "Verb",
+    "english": "to agree",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „zustimmen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “zustimmen” in an example sentence."
+  },
+  {
+    "day": 24,
+    "number": 3,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "attraktiv",
+    "type": "Adjective",
+    "english": "attractive",
+    "exampleDe": "Die Lösung wirkt attraktiv und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems attractive and is easy to implement."
+  },
+  {
+    "day": 24,
+    "number": 4,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "selbstbewusst",
+    "type": "Adjective",
+    "english": "self-confident",
+    "exampleDe": "Diese Erfahrung war für mich besonders selbstbewusst.",
+    "exampleEn": "This experience was particularly self-confident for me."
+  },
+  {
+    "day": 24,
+    "number": 5,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "vielseitig",
+    "type": "Adjective",
+    "english": "versatile",
+    "exampleDe": "Seine Beschreibung klingt sehr vielseitig.",
+    "exampleEn": "His description sounds very versatile."
+  },
+  {
+    "day": 24,
+    "number": 6,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "souverän",
+    "type": "Adjective",
+    "english": "confident; composed",
+    "exampleDe": "In dieser Situation ist es wichtig, souverän zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain confident."
+  },
+  {
+    "day": 24,
+    "number": 7,
+    "lesson": "5 – Körperbewusstsein",
+    "german": "risikant",
+    "type": "Adjective",
+    "english": "risky",
+    "exampleDe": "Die Lösung wirkt risikant und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems risky and is easy to implement."
+  },
+  {
+    "day": 24,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "die Galerie",
+    "type": "Noun",
+    "english": "gallery",
+    "exampleDe": "In der Diskussion ging es um die Galerie.",
+    "exampleEn": "The discussion was about gallery."
+  },
+  {
+    "day": 24,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "die Infrastruktur",
+    "type": "Noun",
+    "english": "infrastructure",
+    "exampleDe": "In der Diskussion ging es um die Infrastruktur.",
+    "exampleEn": "The discussion was about infrastructure."
+  },
+  {
+    "day": 24,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "die Spalte",
+    "type": "Noun",
+    "english": "column; gap",
+    "exampleDe": "In der Diskussion ging es um die Spalte.",
+    "exampleEn": "The discussion was about column."
+  },
+  {
+    "day": 25,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "die Einkaufspassage",
+    "type": "Noun",
+    "english": "shopping arcade",
+    "exampleDe": "In der Diskussion ging es um die Einkaufspassage.",
+    "exampleEn": "The discussion was about shopping arcade."
+  },
+  {
+    "day": 25,
+    "number": 2,
+    "lesson": "6 – Städte erleben",
+    "german": "der Imbissstand",
+    "type": "Noun",
+    "english": "snack stand",
+    "exampleDe": "In der Diskussion ging es um den Imbissstand.",
+    "exampleEn": "The discussion was about snack stand."
+  },
+  {
+    "day": 25,
+    "number": 3,
+    "lesson": "6 – Städte erleben",
+    "german": "das Nahverkehrssystem",
+    "type": "Noun",
+    "english": "local public transport system",
+    "exampleDe": "In der Diskussion ging es um das Nahverkehrssystem.",
+    "exampleEn": "The discussion was about local public transport system."
+  },
+  {
+    "day": 25,
+    "number": 4,
+    "lesson": "6 – Städte erleben",
+    "german": "das Stadttor",
+    "type": "Noun",
+    "english": "city gate",
+    "exampleDe": "In der Diskussion ging es um das Stadttor.",
+    "exampleEn": "The discussion was about city gate."
+  },
+  {
+    "day": 25,
+    "number": 5,
+    "lesson": "6 – Städte erleben",
+    "german": "die Versorgung",
+    "type": "Noun",
+    "english": "supply; provision",
+    "exampleDe": "In der Diskussion ging es um die Versorgung.",
+    "exampleEn": "The discussion was about supply."
+  },
+  {
+    "day": 25,
+    "number": 6,
+    "lesson": "6 – Städte erleben",
+    "german": "das Verwaltungsgebiet",
+    "type": "Noun",
+    "english": "administrative area",
+    "exampleDe": "In der Diskussion ging es um das Verwaltungsgebiet.",
+    "exampleEn": "The discussion was about administrative area."
+  },
+  {
+    "day": 25,
+    "number": 7,
+    "lesson": "6 – Städte erleben",
+    "german": "die Wasserleitung",
+    "type": "Noun",
+    "english": "water pipe; water supply line",
+    "exampleDe": "In der Diskussion ging es um die Wasserleitung.",
+    "exampleEn": "The discussion was about water pipe."
+  },
+  {
+    "day": 25,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "die App",
+    "type": "Noun",
+    "english": "app",
+    "exampleDe": "In der Diskussion ging es um die App.",
+    "exampleEn": "The discussion was about app."
+  },
+  {
+    "day": 25,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "der Betrieb",
+    "type": "Noun",
+    "english": "operation; business",
+    "exampleDe": "In der Diskussion ging es um den Betrieb.",
+    "exampleEn": "The discussion was about operation."
+  },
+  {
+    "day": 25,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "die Funktionsweise",
+    "type": "Noun",
+    "english": "functioning; how something works",
+    "exampleDe": "In der Diskussion ging es um die Funktionsweise.",
+    "exampleEn": "The discussion was about functioning."
+  },
+  {
+    "day": 26,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "der Ausflügler",
+    "type": "Noun",
+    "english": "day-tripper",
+    "exampleDe": "In der Diskussion ging es um den Ausflügler.",
+    "exampleEn": "The discussion was about day-tripper."
+  },
+  {
+    "day": 26,
+    "number": 2,
+    "lesson": "6 – Städte erleben",
+    "german": "die Fassade",
+    "type": "Noun",
+    "english": "façade",
+    "exampleDe": "In der Diskussion ging es um die Fassade.",
+    "exampleEn": "The discussion was about façade."
+  },
+  {
+    "day": 26,
+    "number": 3,
+    "lesson": "6 – Städte erleben",
+    "german": "die Hauptverkehrsader",
+    "type": "Noun",
+    "english": "main traffic artery",
+    "exampleDe": "In der Diskussion ging es um die Hauptverkehrsader.",
+    "exampleEn": "The discussion was about main traffic artery."
+  },
+  {
+    "day": 26,
+    "number": 4,
+    "lesson": "6 – Städte erleben",
+    "german": "der Stadtrand",
+    "type": "Noun",
+    "english": "outskirts",
+    "exampleDe": "In der Diskussion ging es um den Stadtrand.",
+    "exampleEn": "The discussion was about outskirts."
+  },
+  {
+    "day": 26,
+    "number": 5,
+    "lesson": "6 – Städte erleben",
+    "german": "die Tagesstätte",
+    "type": "Noun",
+    "english": "day-care centre",
+    "exampleDe": "In der Diskussion ging es um die Tagesstätte.",
+    "exampleEn": "The discussion was about day-care centre."
+  },
+  {
+    "day": 26,
+    "number": 6,
+    "lesson": "6 – Städte erleben",
+    "german": "das Umweltministerium",
+    "type": "Noun",
+    "english": "environment ministry",
+    "exampleDe": "In der Diskussion ging es um das Umweltministerium.",
+    "exampleEn": "The discussion was about environment ministry."
+  },
+  {
+    "day": 26,
+    "number": 7,
+    "lesson": "6 – Städte erleben",
+    "german": "der Auslauf",
+    "type": "Noun",
+    "english": "outlet; run-off",
+    "exampleDe": "In der Diskussion ging es um den Auslauf.",
+    "exampleEn": "The discussion was about outlet."
+  },
+  {
+    "day": 26,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "die Kuppel",
+    "type": "Noun",
+    "english": "dome",
+    "exampleDe": "In der Diskussion ging es um die Kuppel.",
+    "exampleEn": "The discussion was about dome."
+  },
+  {
+    "day": 26,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "das Label",
+    "type": "Noun",
+    "english": "label; brand",
+    "exampleDe": "In der Diskussion ging es um das Label.",
+    "exampleEn": "The discussion was about label."
+  },
+  {
+    "day": 26,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "das Meisterwerk",
+    "type": "Noun",
+    "english": "masterpiece",
+    "exampleDe": "In der Diskussion ging es um das Meisterwerk.",
+    "exampleEn": "The discussion was about masterpiece."
+  },
+  {
+    "day": 27,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "die Prominenz",
+    "type": "Noun",
+    "english": "prominent people; celebrity",
+    "exampleDe": "In der Diskussion ging es um die Prominenz.",
+    "exampleEn": "The discussion was about prominent people."
+  },
+  {
+    "day": 27,
+    "number": 2,
+    "lesson": "6 – Städte erleben",
+    "german": "der Schwerpunkt",
+    "type": "Noun",
+    "english": "main focus; emphasis",
+    "exampleDe": "In der Diskussion ging es um den Schwerpunkt.",
+    "exampleEn": "The discussion was about main focus."
+  },
+  {
+    "day": 27,
+    "number": 3,
+    "lesson": "6 – Städte erleben",
+    "german": "das Spektakel",
+    "type": "Noun",
+    "english": "spectacle",
+    "exampleDe": "In der Diskussion ging es um das Spektakel.",
+    "exampleEn": "The discussion was about spectacle."
+  },
+  {
+    "day": 27,
+    "number": 4,
+    "lesson": "6 – Städte erleben",
+    "german": "das Uhrwerk",
+    "type": "Noun",
+    "english": "clockwork mechanism",
+    "exampleDe": "In der Diskussion ging es um das Uhrwerk.",
+    "exampleEn": "The discussion was about clockwork mechanism."
+  },
+  {
+    "day": 27,
+    "number": 5,
+    "lesson": "6 – Städte erleben",
+    "german": "die Bedenken",
+    "type": "Noun (plural)",
+    "english": "concerns; reservations",
+    "exampleDe": "In der Diskussion ging es um die Bedenken.",
+    "exampleEn": "The discussion was about concerns."
+  },
+  {
+    "day": 27,
+    "number": 6,
+    "lesson": "6 – Städte erleben",
+    "german": "die Einigung",
+    "type": "Noun",
+    "english": "agreement; settlement",
+    "exampleDe": "In der Diskussion ging es um die Einigung.",
+    "exampleEn": "The discussion was about agreement."
+  },
+  {
+    "day": 27,
+    "number": 7,
+    "lesson": "6 – Städte erleben",
+    "german": "die Einstellung",
+    "type": "Noun",
+    "english": "attitude; setting",
+    "exampleDe": "In der Diskussion ging es um die Einstellung.",
+    "exampleEn": "The discussion was about attitude."
+  },
+  {
+    "day": 27,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "die Leidenschaft",
+    "type": "Noun",
+    "english": "passion",
+    "exampleDe": "In der Diskussion ging es um die Leidenschaft.",
+    "exampleEn": "The discussion was about passion."
+  },
+  {
+    "day": 27,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "die Welle",
+    "type": "Noun",
+    "english": "wave",
+    "exampleDe": "In der Diskussion ging es um die Welle.",
+    "exampleEn": "The discussion was about wave."
+  },
+  {
+    "day": 27,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "erschließen",
+    "type": "Verb",
+    "english": "to develop; make accessible",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „erschließen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “erschließen” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "versorgen",
+    "type": "Verb",
+    "english": "to supply; provide for",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „versorgen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “versorgen” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 2,
+    "lesson": "6 – Städte erleben",
+    "german": "voraussagen",
+    "type": "Verb",
+    "english": "to predict; forecast",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „voraussagen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “voraussagen” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 3,
+    "lesson": "6 – Städte erleben",
+    "german": "auffrischen",
+    "type": "Verb",
+    "english": "to refresh; brush up",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „auffrischen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “auffrischen” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 4,
+    "lesson": "6 – Städte erleben",
+    "german": "sanieren",
+    "type": "Verb",
+    "english": "to renovate; rehabilitate",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sanieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sanieren” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 5,
+    "lesson": "6 – Städte erleben",
+    "german": "sich wandeln",
+    "type": "Verb phrase",
+    "english": "to change; transform",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich wandeln“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich wandeln” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 6,
+    "lesson": "6 – Städte erleben",
+    "german": "wimmeln von (+ Dat.)",
+    "type": "Verb phrase",
+    "english": "to teem with",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „wimmeln von (+ Dat.)“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “wimmeln von (+ Dat.)” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 7,
+    "lesson": "6 – Städte erleben",
+    "german": "sich verfahren",
+    "type": "Verb",
+    "english": "to get lost (while driving)",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich verfahren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich verfahren” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "herausfiltern",
+    "type": "Verb",
+    "english": "to filter out",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „herausfiltern“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “herausfiltern” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "sich blicken lassen",
+    "type": "Verb phrase",
+    "english": "to show up; make an appearance",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sich blicken lassen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sich blicken lassen” in an example sentence."
+  },
+  {
+    "day": 28,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "flanieren",
+    "type": "Verb",
+    "english": "to stroll",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „flanieren“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “flanieren” in an example sentence."
+  },
+  {
+    "day": 29,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "vereinen",
+    "type": "Verb",
+    "english": "to unite; combine",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „vereinen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “vereinen” in an example sentence."
+  },
+  {
+    "day": 29,
+    "number": 2,
+    "lesson": "6 – Städte erleben",
+    "german": "entkräften",
+    "type": "Verb",
+    "english": "to refute; invalidate",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „entkräften“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “entkräften” in an example sentence."
+  },
+  {
+    "day": 29,
+    "number": 3,
+    "lesson": "6 – Städte erleben",
+    "german": "kulinarisch",
+    "type": "Adjective",
+    "english": "culinary",
+    "exampleDe": "Seine Beschreibung klingt sehr kulinarisch.",
+    "exampleEn": "His description sounds very culinary."
+  },
+  {
+    "day": 29,
+    "number": 4,
+    "lesson": "6 – Städte erleben",
+    "german": "vornehm",
+    "type": "Adjective",
+    "english": "elegant; distinguished",
+    "exampleDe": "In dieser Situation ist es wichtig, vornehm zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain elegant."
+  },
+  {
+    "day": 29,
+    "number": 5,
+    "lesson": "6 – Städte erleben",
+    "german": "eindrucksvoll",
+    "type": "Adjective",
+    "english": "impressive",
+    "exampleDe": "Die Lösung wirkt eindrucksvoll und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems impressive and is easy to implement."
+  },
+  {
+    "day": 29,
+    "number": 6,
+    "lesson": "6 – Städte erleben",
+    "german": "einzigartig",
+    "type": "Adjective",
+    "english": "unique",
+    "exampleDe": "Diese Erfahrung war für mich besonders einzigartig.",
+    "exampleEn": "This experience was particularly unique for me."
+  },
+  {
+    "day": 29,
+    "number": 7,
+    "lesson": "6 – Städte erleben",
+    "german": "gutbürgerlich",
+    "type": "Adjective",
+    "english": "traditional; middle-class (food/style)",
+    "exampleDe": "Seine Beschreibung klingt sehr gutbürgerlich.",
+    "exampleEn": "His description sounds very traditional."
+  },
+  {
+    "day": 29,
+    "number": 8,
+    "lesson": "6 – Städte erleben",
+    "german": "heruntergekommen",
+    "type": "Adjective",
+    "english": "run-down; dilapidated",
+    "exampleDe": "In dieser Situation ist es wichtig, heruntergekommen zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain run-down."
+  },
+  {
+    "day": 29,
+    "number": 9,
+    "lesson": "6 – Städte erleben",
+    "german": "mehrspurig",
+    "type": "Adjective",
+    "english": "multi-lane",
+    "exampleDe": "Die Lösung wirkt mehrspurig und ist leicht umzusetzen.",
+    "exampleEn": "The solution seems multi-lane and is easy to implement."
+  },
+  {
+    "day": 29,
+    "number": 10,
+    "lesson": "6 – Städte erleben",
+    "german": "mittelalterlich",
+    "type": "Adjective",
+    "english": "medieval",
+    "exampleDe": "Diese Erfahrung war für mich besonders mittelalterlich.",
+    "exampleEn": "This experience was particularly medieval for me."
+  },
+  {
+    "day": 30,
+    "number": 1,
+    "lesson": "6 – Städte erleben",
+    "german": "lohnenswert",
+    "type": "Adjective",
+    "english": "worthwhile; worth visiting",
+    "exampleDe": "Seine Beschreibung klingt sehr lohnenswert.",
+    "exampleEn": "His description sounds very worthwhile."
+  },
+  {
+    "day": 30,
+    "number": 2,
+    "lesson": "1 – Freunde",
+    "german": "die Rückseite",
+    "type": "Noun",
+    "english": "back side; reverse",
+    "exampleDe": "In der Diskussion ging es um die Rückseite.",
+    "exampleEn": "The discussion was about back side."
+  },
+  {
+    "day": 30,
+    "number": 3,
+    "lesson": "1 – Freunde",
+    "german": "die Vorderseite",
+    "type": "Noun",
+    "english": "front side",
+    "exampleDe": "In der Diskussion ging es um die Vorderseite.",
+    "exampleEn": "The discussion was about front side."
+  },
+  {
+    "day": 30,
+    "number": 4,
+    "lesson": "1 – Freunde",
+    "german": "die Auswertung",
+    "type": "Noun",
+    "english": "evaluation; analysis",
+    "exampleDe": "In der Diskussion ging es um die Auswertung.",
+    "exampleEn": "The discussion was about evaluation."
+  },
+  {
+    "day": 30,
+    "number": 5,
+    "lesson": "1 – Freunde",
+    "german": "bewerten",
+    "type": "Verb",
+    "english": "to evaluate; assess",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „bewerten“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “bewerten” in an example sentence."
+  },
+  {
+    "day": 30,
+    "number": 6,
+    "lesson": "1 – Freunde",
+    "german": "gestalten",
+    "type": "Verb",
+    "english": "to design; shape",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „gestalten“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “gestalten” in an example sentence."
+  },
+  {
+    "day": 30,
+    "number": 7,
+    "lesson": "1 – Freunde",
+    "german": "Kontakte pflegen",
+    "type": "Verb phrase",
+    "english": "to maintain contacts",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „Kontakte pflegen“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “Kontakte pflegen” in an example sentence."
+  },
+  {
+    "day": 30,
+    "number": 8,
+    "lesson": "1 – Freunde",
+    "german": "sorgen für",
+    "type": "Verb phrase",
+    "english": "to take care of; ensure",
+    "exampleDe": "Im Unterricht haben wir den Ausdruck „sorgen für“ in einem Beispielsatz verwendet.",
+    "exampleEn": "In class, we used the expression “sorgen für” in an example sentence."
+  },
+  {
+    "day": 30,
+    "number": 9,
+    "lesson": "1 – Freunde",
+    "german": "mental",
+    "type": "Adjective",
+    "english": "mental",
+    "exampleDe": "Seine Beschreibung klingt sehr mental.",
+    "exampleEn": "His description sounds very mental."
+  },
+  {
+    "day": 30,
+    "number": 10,
+    "lesson": "1 – Freunde",
+    "german": "introvertiert",
+    "type": "Adjective",
+    "english": "introverted",
+    "exampleDe": "In dieser Situation ist es wichtig, introvertiert zu bleiben.",
+    "exampleEn": "In this situation, it is important to remain introverted."
+  }
+]
